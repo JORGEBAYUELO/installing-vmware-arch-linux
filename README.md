@@ -1,6 +1,6 @@
 # How To Install VMware Workstation On Arch Linux
 
-This guide showes how to install **VMware Workstation** on **Arch Linux**
+This guide shows how to install **VMware Workstation** on **Arch Linux**
 
 ## Step 1: Install an AUR helper if you don't have one (like `yay` or `paru`):
 
